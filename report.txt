@@ -1,0 +1,14 @@
+Vulnerability scan report for http://127.0.0.1:5000/:
+
+SQL Report: None
+
+XSS Report: False
+
+RCE Report: None
+
+Security Misconfiguration Report: None
+
+Broken OAuth Report: None
+
+CSRF Report: None
+
